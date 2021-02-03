@@ -1,0 +1,66 @@
+/* #region Main Tags Style */
+
+body {
+  background-color: #eeeeee;
+}
+
+header {
+  background-color: white;
+}
+
+/* #endregion Main Tags Style */
+
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+
+/* #region Main Classes Style */
+
+.text-left {
+  text-align: left;
+}
+
+/* #endregion Main Tags Style */
+
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+
+/* #region Customize HTML Tags */
+
+table {
+  margin: 0 !important;
+}
+
+th {
+  font-weight: normal;
+}
+
+/* #endregion Customize HTML Tags */
+
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+
+/* #region Customize Bootstrap Classes */
+
+.nav-link {
+  padding-left: 0 !important;
+  padding-right: 15px !important;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-header,
+.card-body {
+  background-color: white;
+  padding: 20px 20px;
+}
+
+.card-title {
+  font-size: 1rem;
+}
+
+/* #endregion Customize Bootstrap Classes */
