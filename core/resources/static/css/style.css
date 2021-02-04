@@ -20,6 +20,20 @@ header {
   text-align: left;
 }
 
+.nav-active {
+  color: #212121 !important;
+  border-bottom: #212121 2px solid;
+}
+
+.description {
+  line-height: 2rem;
+}
+
+.small-block-title {
+  font-size: 1.3rem;
+  margin-bottom: .8rem;
+}
+
 /* #endregion Main Tags Style */
 
 /* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
@@ -36,6 +50,10 @@ th {
   font-weight: normal;
 }
 
+ul {
+  margin-bottom: 0;
+}
+
 /* #endregion Customize HTML Tags */
 
 /* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
@@ -46,11 +64,8 @@ th {
 
 .nav-link {
   padding-left: 0 !important;
-  padding-right: 15px !important;
-}
-
-.card-title {
-  margin-bottom: 0;
+  padding-right: 0 !important;
+  margin-right: 15px !important;
 }
 
 .card-header,
@@ -59,8 +74,18 @@ th {
   padding: 20px 20px;
 }
 
-.card-title {
-  font-size: 1rem;
+.navbar-expand {
+  justify-content: center !important;
+}
+
+.nav-item a {
+  text-align: center;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
+}
+
+.navbar {
+  padding: 0;
 }
 
 /* #endregion Customize Bootstrap Classes */
